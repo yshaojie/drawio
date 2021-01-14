@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:40:09.874Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="U25cfw7vkds387_kF-4T" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:41:48.897Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="66c-zrOufjZ_X4-316Mq" version="14.1.9" type="github">
   <diagram id="_Ul_cDUcfvZQi3P4itM_" name="Page-1">
     <mxGraphModel dx="2232" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,6 +113,9 @@
         <mxCell id="OKDERg7G9xhhFDiHWTuP-84" value="Tailer Cluster-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-80">
           <mxGeometry x="80" y="31" width="102.5" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="OKDERg7G9xhhFDiHWTuP-113" value="kafka-11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#1C1C1C;fontSize=12;fontColor=#FCFCFC;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-80">
+          <mxGeometry x="30" y="67" width="50" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-85" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hub_Clusters.svg;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-96">
           <mxGeometry x="270" y="61" as="geometry" />
         </mxCell>
@@ -130,6 +133,9 @@
         </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-90" value="Tailer Cluster-NN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-86">
           <mxGeometry x="80" y="31" width="102.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OKDERg7G9xhhFDiHWTuP-114" value="kafka-NN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#1C1C1C;fontSize=12;fontColor=#FCFCFC;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-86">
+          <mxGeometry x="20" y="67" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-91" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OKDERg7G9xhhFDiHWTuP-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,6 +185,9 @@
         <mxCell id="OKDERg7G9xhhFDiHWTuP-17" value="Tailer Cluster-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-63">
           <mxGeometry x="80" y="31" width="102.5" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="OKDERg7G9xhhFDiHWTuP-111" value="kafka-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#1C1C1C;fontSize=12;fontColor=#FCFCFC;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-63">
+          <mxGeometry x="30" y="67" width="50" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-64" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hub_Clusters.svg;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-98">
           <mxGeometry x="270" y="61" as="geometry" />
         </mxCell>
@@ -196,6 +205,9 @@
         </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-69" value="Tailer Cluster-N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-65">
           <mxGeometry x="80" y="31" width="102.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OKDERg7G9xhhFDiHWTuP-112" value="kafka-N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#1C1C1C;fontSize=12;fontColor=#FCFCFC;" vertex="1" parent="OKDERg7G9xhhFDiHWTuP-65">
+          <mxGeometry x="25" y="67" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-71" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OKDERg7G9xhhFDiHWTuP-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
