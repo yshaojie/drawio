@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T13:10:27.810Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tSN5LbZko48MFoUC92KJ" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T13:18:22.585Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="d7TIIpkP8FqY57n_HesE" version="14.2.4" type="github">
   <diagram id="_Ul_cDUcfvZQi3P4itM_" name="Page-1">
     <mxGraphModel dx="1382" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -293,6 +293,11 @@
         </mxCell>
         <mxCell id="OKDERg7G9xhhFDiHWTuP-114" value="kafka-NN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#1C1C1C;fontSize=12;fontColor=#FCFCFC;" parent="fPBYN8Zd4ud1qEa25rDL-26" vertex="1">
           <mxGeometry x="10" y="66" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fPBYN8Zd4ud1qEa25rDL-31" value="读取配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160.00456849121701" y="475.9981353588371" as="geometry">
+            <mxPoint x="-7" y="-227" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
